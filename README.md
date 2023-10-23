@@ -1,5 +1,5 @@
 # Retrieval-Ranking-Systems - files & their purpose
-Information Retrieval and Data Mining Coursework 1 & 2
+Information Retrieval and Data Mining
 
 # Basic Models (CW1):
 
